@@ -1,0 +1,39 @@
+body {
+background-color: lightblue;
+background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)),
+                  url("spicybg.jpg");
+background-size: 1000px;                 
+font-family: Helvetica;
+}
+
+font-family: 'Fredoka One', cursive;
+
+h1 {
+color: black;
+text-align: center;
+}
+
+
+#header {
+border: 2px solid black;
+padding: 5px;
+height: 100%;
+background: beige;
+background-color: white;
+text-align: center;
+}
+
+#main {
+width: 80%;
+max-width: 950px;
+border: 1px gray solid;
+margin: auto;
+padding: 10px;
+background-color: white;
+border-radius: 10px;
+}
+
+
+
+
+
